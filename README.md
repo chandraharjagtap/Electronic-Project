@@ -1,3 +1,3 @@
 # Electronic-Project
 This is Big Project
-AUthor - Chandrahar Jagtap
+AUthor - Chandrahar jgtap patil
